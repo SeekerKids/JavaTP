@@ -6,7 +6,7 @@ package com.mycompany.main;
 
 /**
  *
- * @author Kids1
+ * @author Mahasiswa
  */
 public class Mahasiswa {
     private String nama;
